@@ -1,17 +1,17 @@
-url: https://y7kim.github.io
-baseurl: /agency-jekyll-theme/
+url: https://www.subterrabio.com
+baseurl: /
 
 # Site settings
-title: Awesome Title
-email: your-email@domain.com
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+title: Subterra
+email: info@subterrabio.com
+description: "Subterra aims to revolutionize hydrogen exploration and underground hydrogen storage by integrating microbiological insights, geoscience expertise, and advanced computational tools. Unlocking Hydrogen’s Potential, One Microbe at a Time."
 
 
 # Team names, titles and social links
 people:
-- name: Kay Garland
+- name: XXX
   pic: 1
-  position: Lead Designer
+  position: XXX
   social:
     - title: twitter
       url: #
@@ -20,9 +20,9 @@ people:
     - title: stack-overflow
       url: #
 
-- name: Larry Parker
+- name: XXX
   pic: 2
-  position: Lead Marketer
+  position: XXX
   social:
     - title: twitter
       url: #
@@ -31,9 +31,9 @@ people:
     - title: linkedin
       url: #
 
-- name: Diana Petersen
+- name: XXX
   pic: 3
-  position: Lead Developer
+  position: XXX
   social:
     - title: twitter
       url: #
@@ -46,19 +46,13 @@ people:
 social:
   - title: twitter
     url: http://twitter.com/jekyllrb
-  - title: facebook
+  - title: linkedin
     url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket 
-    url: http://bitbucket.org/jekyll
-  - title: github
-    url: http://github.com/jekyll
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: University of Naples Federico II
+  - line: Naples Italy
 
 # Build settings
 markdown: kramdown
