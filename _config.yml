@@ -9,45 +9,64 @@ description: "Subterra aims to revolutionize hydrogen exploration and undergroun
 
 # Team names, titles and social links
 people:
-- name: XXX
+- name: Andrea Giovannelli
   pic: 1
-  position: XXX
+  position: FOunder &CEO
   social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: stack-overflow
-      url: #
-
-- name: XXX
-  pic: 2
-  position: XXX
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
     - title: linkedin
-      url: #
+      url: https://www.linkedin.com/in/giovannelli-andrea/
 
-- name: XXX
-  pic: 3
-  position: XXX
+- name: Martina Cascone
+  pic: 2
+  position: Founder & CTO
   social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
+    - title: linkedin
+      url: https://www.linkedin.com/in/martina-cascone-643918138/
+
+- name: Valerio Alessi
+  pic: 3
+  position: Founder & CFO
+  social:
+    - title: linkedin
+      url: https://www.linkedin.com/in/valerio-alessi-aaa56625/
+
+- name: Donato Giovannelli
+  pic: 3
+  position: Founder
+  social:
+    - title: linkedin
+      url: https://www.linkedin.com/in/donatogiovannelli/
+
+- name: David Iacopini
+  pic: 3
+  position: Founder
+  social:
+    - title: linkedin
+      url: https://www.linkedin.com/in/david-iacopini-08199023/
+
+- name: Alberto Vitale Brovarone
+  pic: 3
+  position: Founder
+  social:
+    - title: linkedin
+      url: https://www.linkedin.com/in/alberto-vitale-brovarone-bb46252b2/
+
+- name: Mariano Parente
+  pic: 3
+  position: Founder
+  social:
+    - title: linkedin
+      url: https://www.linkedin.com/in/mariano-parente-5b010723/
+
+- name: Massimo Boccolini
+  pic: 3
+  position: Founder
+  social:
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: twitter
-    url: http://twitter.com/jekyllrb
   - title: linkedin
-    url:
+    url: https://www.linkedin.com/in/
 
 # Postal address (add as many lines as necessary)
 address:
